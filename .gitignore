@@ -6,6 +6,7 @@ riderModule.iml
 .idea/
 *.DotSettings.user
 /FrontEnd/node_modules
+/BackEnd/appsettings.*
 # Default ignored files
 /shelf/
 /workspace.xml
